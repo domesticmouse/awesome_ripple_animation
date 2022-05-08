@@ -27,7 +27,7 @@ child: Container()
 ```
 Mobile view
 <div class="display:inline-block">
-        <img src="https://github.com/AwabSabir373/ripple_animation/blob/50bf28371bc42b5e0f1c6a628ee0a7516b513c5d/gif/snapshot.gif" height="650"/>
+        <img src="https://github.com/AwabSabir373/ripple_animation/blob/50bf28371bc42b5e0f1c6a628ee0a7516b513c5d/gif/snapshot.gif" height="1000"/>
 <br>
 <br>
 
