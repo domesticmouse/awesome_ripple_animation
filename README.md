@@ -26,10 +26,15 @@ ripplesCount: 6,
 child: Container()
 ```
 Mobile view
+Mobile view
 <div class="display:inline-block">
-        <img src="https://github.com/AwabSabir373/ripple_animation/blob/50bf28371bc42b5e0f1c6a628ee0a7516b513c5d/gif/snapshot.gif"/>
+        <img src="https://github.com/AwabSabir373/awesome_ripple_animation/blob/0fe011584e0e1effdeb24ea90a68bb0cc6251940/gif/snapshot.gif" class="display:inline-block" height="1080"/>
 <br>
 <br>
+Desktop View
+<br>
+<br>
+</div>
 
 
 ## Contributing
