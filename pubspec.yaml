@@ -1,7 +1,8 @@
 name: awesome_ripple_animation
 description: Simple and customizable ripple animation for flutter app! Check out our preview gifs for a view of what simple ripple animation can do.
 version: 0.5.4
-homepage:
+homepage: https://github.com/AwabSabir373/awesome_ripple_animation.git
+
 
 environment:
   sdk: ">=2.16.2 <3.0.0"
