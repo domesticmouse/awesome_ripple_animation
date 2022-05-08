@@ -26,7 +26,6 @@ ripplesCount: 6,
 child: Container()
 ```
 Mobile view
-Mobile view
 <div class="display:inline-block">
         <img src="https://github.com/AwabSabir373/awesome_ripple_animation/blob/0fe011584e0e1effdeb24ea90a68bb0cc6251940/gif/snapshot.gif" class="display:inline-block" height="1080"/>
 <br>
