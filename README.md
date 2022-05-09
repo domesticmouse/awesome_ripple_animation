@@ -5,17 +5,13 @@ Use the package manager [pub](https://pub.dev/) to install rippleanimation.
 
 ## Features
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
+It will Make ripple animation effect background of any widget
 
 ## Getting started
 
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
+Just import 'package:awesome_ripple_animation/awesome_ripple_animation.dart';
 
 ## Usage
-
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder.
 
 ```dart
 RippleAnimation(
@@ -28,10 +24,6 @@ child: Container()
 Mobile view
 <div class="display:inline-block">
         <img src="https://github.com/AwabSabir373/awesome_ripple_animation/blob/0fe011584e0e1effdeb24ea90a68bb0cc6251940/gif/snapshot.gif" class="display:inline-block" height="1080"/>
-<br>
-<br>
-Desktop View
-<br>
 <br>
 </div>
 
