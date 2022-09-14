@@ -22,10 +22,7 @@ ripplesCount: 6,
 child: Container()
 ```
 Mobile view
-<div class="display:inline-block">
-        <img src="https://github.com/AwabSabir373/awesome_ripple_animation/blob/0fe011584e0e1effdeb24ea90a68bb0cc6251940/gif/snapshot.gif" class="display:inline-block" height="1080"/>
-<br>
-</div>
+![](https://github.com/AwabSabir373/awesome_ripple_animation/blob/0fe011584e0e1effdeb24ea90a68bb0cc6251940/gif/snapshot.gif?raw=true)
 
 
 ## Contributing
@@ -34,4 +31,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## License
-[BSD](https://opensource.org/licenses/BSD-3-Clause/)
+[BSD](https://opensource.org/licenses/MIT)
